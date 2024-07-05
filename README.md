@@ -10,7 +10,7 @@ Runs the app in the development mode.\
 Using this command clone project in your enviroment.
 Otherwise you can download zip and start.
 
-### `npm Install`
+### `npm install`
 
 Runs the app in the development mode.\
 Using this command install all required libraries.
