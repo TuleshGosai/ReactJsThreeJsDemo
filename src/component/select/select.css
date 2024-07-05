@@ -1,0 +1,8 @@
+select {
+    width: 100px;
+    border: none;
+}
+select:focus {
+    width: 100px;
+    outline: none;
+}
